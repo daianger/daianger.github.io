@@ -1,18 +1,23 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <PageTemp title="Home" />
+    <IndexPage msg="Welcome to Your Vue.js App" />
+    <HomeWork subject="hoge" content="huga" />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import IndexPage from '@/components/IndexPage.vue'
+import HomeWork from '@/components/HomeWork.vue'
+import PageTemp from '@/components/PageTemp.vue'
 
 export default {
   name: 'HomeView',
   components: {
-    HelloWorld
+    IndexPage,
+    HomeWork,
+    PageTemp
   }
 }
 </script>
