@@ -2,7 +2,7 @@
     <div class="header">
         <ul>
             <li class="title">
-                <h1>Daianger</h1>
+                <h1>Daianger(develop)</h1>
             </li>
             <li> <router-link to="/">Home</router-link></li>
             <li> <router-link to="/about">About</router-link></li>
