@@ -4,7 +4,7 @@
     <div class="home">
         <PageTemp title="テスト範囲" />
         <h2>学年末考査</h2>
-        <div class="homework" style="padding-right: 10px;">
+        <div class="rect" style="padding-right: 10px;">
             <ul>
                 <li>
                     <h2>1日目(2/5)</h2>
@@ -369,10 +369,22 @@ export default {
 </script>
 
 <style scoped>
-.homework {
-    background-color: #1D1D1F;
+.rect {
     padding: 30px;
     border-radius: 20px;
+}
+@media (prefers-color-scheme: light) {
+    .rect {
+        background-color: #FFFFFF;
+        color: black;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .rect {
+        background-color: #1D1D1F;
+        color: white;
+    }
 }
 </style>
   
