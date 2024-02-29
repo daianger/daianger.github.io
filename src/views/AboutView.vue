@@ -2,10 +2,10 @@
 
 <template>
   <div class="home">
-    <PageTemp title="About" />
+    <PageTemp title="お知らせ" />
 
     <div class="about">
-      <h1>This is an about page</h1>
+      <h2>お知らせが表示されます</h2>
     </div>
   </div>
 </template>

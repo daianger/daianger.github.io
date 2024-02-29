@@ -1,11 +1,14 @@
 <template>
     <div class="header">
         <ul>
-            <li>
-                <h1 style="font-style: italic;">Daianger</h1>
+            <li class="title">
+                <h1>Daianger</h1>
             </li>
             <li> <router-link to="/">Home</router-link></li>
             <li> <router-link to="/about">About</router-link></li>
+            <li> <router-link to="/homework">Homework</router-link></li>
+            <li> <router-link to="/exam">Exam</router-link></li>
+            <li> <router-link to="/timetable">Time Table</router-link></li>
         </ul>
     </div>
 </template>
@@ -21,6 +24,7 @@
 ul {
     display: flex;
     align-items: center;
+    padding-left: 0;
 }
 
 li {
@@ -28,6 +32,13 @@ li {
     margin-left: 20px;
     font-size: 20px;
     margin-top: 0;
+}
+
+.title {
+    margin-left: 0;
+}
+.title > h1{
+    font-style: italic;
 }
 
 a,

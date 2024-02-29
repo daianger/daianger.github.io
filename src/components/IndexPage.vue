@@ -1,16 +1,20 @@
 <template>
   <div class="hello">
    <h2>課題</h2>
-   <h2>テスト範囲</h2>
+   <HomeWork subject="hoge" content="huga" />
    <h2>お知らせ</h2>
   </div>
 </template>
 
 <script>
+import HomeWork from '@/components/HomeWork.vue';
 export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  components: {
+    HomeWork
   }
 }
 </script>
