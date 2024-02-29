@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdaianger_github_io"]=self["webpackChunkdaianger_github_io"]||[]).push([[443],{8480:function(e,n,a){a.r(n),a.d(n,{default:function(){return h}});var t=a(3396);const i={class:"home"},u=(0,t._)("div",{class:"about"},[(0,t._)("h1",null,"This is an about page")],-1);function o(e,n,a,o,s,r){const c=(0,t.up)("PageTemp");return(0,t.wg)(),(0,t.iD)("div",i,[(0,t.Wm)(c,{title:"About"}),u])}var s=a(9229),r={name:"HomeView",components:{PageTemp:s.Z}},c=a(89);const g=(0,c.Z)(r,[["render",o]]);var h=g}}]);
-//# sourceMappingURL=about.bebbcb49.js.map
