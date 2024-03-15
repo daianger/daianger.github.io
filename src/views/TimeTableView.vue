@@ -1,25 +1,149 @@
-
-
 <template>
-    <div class="home">
-      <PageTemp title="時間割" />
-  
-      <div class="about">
-        <h2>準備中</h2>
-      </div>
+  <div class="home">
+    <PageTemp title="時間割" />
+
+    <div class="about">
+      <h2>5A</h2>
+      <table>
+        <tr>
+          <th></th>
+          <th>月</th>
+          <th>火</th>
+          <th>水</th>
+          <th>木</th>
+          <th>金</th>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>7</td>
+        </tr>
+      </table>
+      <h2>5B</h2>
+      <table>
+        <tr>
+          <th></th>
+          <th>月</th>
+          <th>火</th>
+          <th>水</th>
+          <th>木</th>
+          <th>金</th>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>7</td>
+        </tr>
+      </table>
+      <h2>5C</h2>
+      <table>
+        <tr>
+          <th></th>
+          <th>月</th>
+          <th>火</th>
+          <th>水</th>
+          <th>木</th>
+          <th>金</th>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>7</td>
+        </tr>
+      </table>
+      <h2>5D</h2>
+      <table>
+        <tr>
+          <th></th>
+          <th>月</th>
+          <th>火</th>
+          <th>水</th>
+          <th>木</th>
+          <th>金</th>
+        </tr>
+        <tr>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>7</td>
+        </tr>
+      </table>
     </div>
-  </template>
-  
-  <script>
-  // @ is an alias to /src
-  import PageTemp from '@/components/PageTemp.vue'
-  
-  export default {
-    name: 'HomeView',
-    components: {
-  
-      PageTemp
-    }
+  </div>
+</template>
+
+<script>
+// @ is an alias to /src
+import PageTemp from '@/components/PageTemp.vue'
+
+export default {
+  name: 'HomeView',
+  components: {
+
+    PageTemp
   }
-  </script>
-  
+}
+</script>

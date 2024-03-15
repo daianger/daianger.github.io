@@ -1,5 +1,17 @@
 <template>
-    <div class="header">
+    <div class="header" v-if="dispsize()">
+        <ul>
+            <li class="title">
+                <h1>Daianger(develop)</h1>
+            </li>
+            <li> <router-link to="/">Home</router-link></li>
+            <li> <router-link to="/about">About</router-link></li>
+            <li> <router-link to="/homework">Homework</router-link></li>
+            <li> <router-link to="/exam">Exam</router-link></li>
+            <li> <router-link to="/timetable">Time Table</router-link></li>
+        </ul>
+    </div>
+    <div v-else class="header">
         <ul>
             <li class="title">
                 <h1>Daianger(develop)</h1>
@@ -12,6 +24,7 @@
         </ul>
     </div>
 </template>
+
 
 <style scoped>
 .header {
@@ -37,7 +50,8 @@ li {
 .title {
     margin-left: 0;
 }
-.title > h1{
+
+.title>h1 {
     font-style: italic;
 }
 
@@ -56,5 +70,15 @@ export default {
         subject: String,
         content: String
     },
+    methods: {
+        dispsize() {
+            if (window.innerWidth >= 800) {
+                return true
+            } else {
+                return false
+            }
+        }
+
+    }
 }
 </script>

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdaianger_github_io"]=self["webpackChunkdaianger_github_io"]||[]).push([[443],{4467:function(e,n,t){t.r(n),t.d(n,{default:function(){return d}});var a=t(3396);const i={class:"home"},u=(0,a._)("div",{class:"about"},[(0,a._)("h2",null,"お知らせが表示されます")],-1);function o(e,n,t,o,r,s){const c=(0,a.up)("PageTemp");return(0,a.wg)(),(0,a.iD)("div",i,[(0,a.Wm)(c,{title:"お知らせ"}),u])}var r=t(2422),s={name:"HomeView",components:{PageTemp:r.Z}},c=t(89);const l=(0,c.Z)(s,[["render",o]]);var d=l}}]);
+//# sourceMappingURL=about.862883fe.js.map
