@@ -5,7 +5,7 @@
         <div class="about">
             <ul style="display: flex; ">
                 <li class="button">
-                    <SelectButton content="文系" />
+                    <SubjectSelect content="" />
                 </li>
             </ul>
             <h2>近日中</h2>
@@ -21,7 +21,7 @@
                 <HomeWork subject="Past" content="hugahuga" />
             </div>
         </div>
-        <HomeWork subject="hogehoge" content="hugahuga" />
+      
     </div>
 </template>
 
@@ -29,7 +29,7 @@
 // @ is an alias to /src
 import PageTemp from '@/components/PageTemp.vue'
 import HomeWork from '@/components/HomeWork.vue'
-import SelectButton from '@/components/atoms/ButtonElem.vue'
+import SubjectSelect from '@/components/SubjectSelect.vue'
 
 
 export default {
@@ -37,7 +37,7 @@ export default {
     components: {
         HomeWork,
         PageTemp,
-        SelectButton
+        SubjectSelect
     }
 }
 </script>

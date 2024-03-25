@@ -1,8 +1,8 @@
 <template>
     <div class="header" v-if="dispsize()">
-        <ul>
+        <ul class="ma">
             <li class="title">
-                <h1>Daianger(develop)</h1>
+                <h1>Daianger(d)</h1>
             </li>
             <li> <router-link to="/">Home</router-link></li>
             <li> <router-link to="/about">About</router-link></li>
@@ -12,15 +12,11 @@
         </ul>
     </div>
     <div v-else class="header">
-        <ul>
+        <ul  class="ma">
             <li class="title">
-                <h1>Daianger(develop)</h1>
+                <h1>Daianger(d)</h1>
             </li>
-            <li> <router-link to="/">Home</router-link></li>
-            <li> <router-link to="/about">About</router-link></li>
-            <li> <router-link to="/homework">Homework</router-link></li>
-            <li> <router-link to="/exam">Exam</router-link></li>
-            <li> <router-link to="/timetable">Time Table</router-link></li>
+        <li>Menu</li>    
         </ul>
     </div>
 </template>
@@ -33,7 +29,6 @@
     width: 100%;
     height: 50px;
 }
-
 ul {
     display: flex;
     align-items: center;

@@ -1,17 +1,17 @@
 <template>
     <div class="homework">
         <div>
-            <input type="checkbox" name="bunri" value="arts"> 文系
-            <input type="checkbox" name="bunri" value="science"> 理系
+            <label><input type="radio" name="bunri" value="arts"> 文系</label>
+            <label><input type="radio" name="bunri" value="science"> 理系</label>
         </div>
         <div>
-            <input type="checkbox" name="sci" value="physics"> 物理
-            <input type="checkbox" name="sci" value="biology"> 生物
+            <label><input type="radio" name="sci" value="physics"> 物理</label>
+            <label><input type="radio" name="sci" value="biology"> 生物</label>
         </div>
         <div>
-            <input type="checkbox" name="soc" value="geo"> 地理
-            <input type="checkbox" name="soc" value="JPhis"> 日本史
-            <input type="checkbox" name="soc" value="Worldhis"> 世界史
+            <label><input type="checkbox" name="soc" value="geo"> 地理</label>
+            <label><input type="checkbox" name="soc" value="JPhis"> 日本史</label>
+            <label><input type="checkbox" name="soc" value="Worldhis"> 世界史</label>
         </div>
 
     </div>
