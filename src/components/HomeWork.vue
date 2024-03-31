@@ -1,9 +1,7 @@
 <template>
     <div class="homework">
-        <table>
-            <tr><td>教科:</td><td>{{ subject }}</td></tr>
-            <tr><td>範囲:</td><td>{{ content }}</td></tr>
-        </table>
+        <h2>{{ subject }}</h2>
+        <p style="margin-left: 20px;">{{ content }}</p>
     </div>
 </template>
 <style scoped>
@@ -11,11 +9,13 @@
     margin-right: auto;
     margin-left: auto;
     padding-left: 10px;
+    padding-right: 10px;
     margin-bottom: 12px;
     padding-top: 4px;
     padding-bottom: 10px;
     border-radius: 18px;
 }
+
 @media (prefers-color-scheme: light) {
     .homework {
         background-color: #FFFFFF;
