@@ -47,24 +47,59 @@
         </tr>
         <tr>
           <td>1</td>
+          <td>物生</td>
+          <td>物生</td>
+          <td>数23</td>
+          <td>漢文</td>
+          <td>体育</td>
         </tr>
         <tr>
           <td>2</td>
+          <td>英A</td>
+          <td>論表</td>
+          <td>英語A</td>
+          <td>論表</td>
+          <td>数23</td>
         </tr>
         <tr>
           <td>3</td>
+          <td>数23</td>
+          <td>社会</td>
+          <td>現文</td>
+          <td>化学</td>
+          <td>社会</td>
         </tr>
         <tr>
           <td>4</td>
+          <td>古文</td>
+          <td>化学</td>
+          <td>古文</td>
+          <td>社会</td>
+          <td>化学</td>
         </tr>
         <tr>
           <td>5</td>
+          <td>家基</td>
+          <td>数BC</td>
+          <td>社会</td>
+          <td>保健</td>
+          <td>英B</td>
         </tr>
         <tr>
           <td>6</td>
+          <td>家基</td>
+          <td>現文</td>
+          <td>英B</td>
+          <td>物生</td>
+          <td>数BC</td>
         </tr>
         <tr>
           <td>7</td>
+          <td>総探</td>
+          <td>体育</td>
+          <td>数BC</td>
+          <td>数23</td>
+          <td>LHR</td>
         </tr>
       </table>
       <h2>5C</h2>
@@ -100,7 +135,7 @@
         </tr>
       </table>
       <h2>5D</h2>
-      <table>
+      <table style="margin-bottom: 30px;">
         <tr>
           <th></th>
           <th>月</th>
@@ -111,24 +146,59 @@
         </tr>
         <tr>
           <td>1</td>
+          <td>古文</td>
+          <td>数23</td>
+          <td>体育</td>
+          <td>数23</td>
+          <td>数23</td>
         </tr>
         <tr>
           <td>2</td>
+          <td>物理</td>
+          <td>物理</td>
+          <td>地理</td>
+          <td>漢文</td>
+          <td>体育</td>
         </tr>
         <tr>
           <td>3</td>
+          <td>家基</td>
+          <td>論表</td>
+          <td>英B</td>
+          <td>物理</td>
+          <td>化学</td>
         </tr>
         <tr>
           <td>4</td>
+          <td>家基</td>
+          <td>数BC</td>
+          <td>現代文</td>
+          <td>論表</td>
+          <td>英B</td>
         </tr>
         <tr>
           <td>5</td>
+          <td>数23</td>
+          <td>化学</td>
+          <td>古文</td>
+          <td>物理</td>
+          <td>数BC</td>
         </tr>
         <tr>
           <td>6</td>
+          <td>英A</td>
+          <td>地理</td>
+          <td>数BC</td>
+          <td>化学</td>
+          <td>地理</td>
         </tr>
         <tr>
           <td>7</td>
+          <td>総探</td>
+          <td>現代文</td>
+          <td>英A</td>
+          <td>保健</td>
+          <td>LHR</td>
         </tr>
       </table>
     </div>
