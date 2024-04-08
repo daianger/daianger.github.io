@@ -15,24 +15,61 @@
         </tr>
         <tr>
           <td>1</td>
+          <td>英A</td>
+          <td>世地β</td>
+          <td>英語B</td>
+          <td>地α</td>
+          <td>体育</td>
         </tr>
         <tr>
           <td>2</td>
+          <td>数2</td>
+          <td>現文</td>
+          <td>現文</td>
+          <td>化基</td>
+          <td>英B</td>
         </tr>
         <tr>
           <td>3</td>
+          <td>世地β</td>
+          <td>家基</td>
+          <td>古文</td>
+          <td>論表</td>
+          <td>漢文</td>
         </tr>
         <tr>
           <td>4</td>
+          <td>
+            地α
+          </td>
+          <td>家基</td>
+          <td>英A</td>
+          <td>保健</td>
+          <td>地α</td>
         </tr>
         <tr>
           <td>5</td>
+          <td>物生基</td>
+          <td>論表</td>
+          <td>数2</td>
+          <td>世地β</td>
+          <td>世地β</td>
         </tr>
         <tr>
           <td>6</td>
+          <td>古文</td>
+          <td>数BC</td>
+          <td>理科</td>
+          <td>数BC</td>
+          <td>数BC</td>
         </tr>
         <tr>
           <td>7</td>
+          <td>総探</td>
+          <td>体育</td>
+          <td>地α</td>
+          <td>漢文</td>
+          <td>LHR</td>
         </tr>
       </table>
       <h2>5B</h2>
@@ -114,24 +151,59 @@
         </tr>
         <tr>
           <td>1</td>
+          <td>現文</td>
+          <td>世地β</td>
+          <td>体育</td>
+          <td>化基</td>
+          <td>漢文</td>
         </tr>
         <tr>
           <td>2</td>
+          <td>古文</td>
+          <td>数BC</td>
+          <td>古文</td>
+          <td>数BC</td>
+          <td>体育</td>
         </tr>
         <tr>
           <td>3</td>
+          <td>世地β</td>
+          <td>日世地α</td>
+          <td>英A</td>
+          <td>漢文</td>
+          <td>日世地α</td>
         </tr>
         <tr>
           <td>4</td>
+          <td>数2</td>
+          <td>現文</td>
+          <td>数2</td>
+          <td>日世地α</td>
+          <td>数BC</td>
         </tr>
         <tr>
           <td>5</td>
+          <td>英A</td>
+          <td>家基</td>
+          <td>日世地α</td>
+          <td>世地β</td>
+          <td>世地β</td>
         </tr>
         <tr>
           <td>6</td>
+          <td>物生基</td>
+          <td>家基</td>
+          <td>理科</td>
+          <td>保健</td>
+          <td>英B</td>
         </tr>
         <tr>
           <td>7</td>
+          <td>総探</td>
+          <td>論表</td>
+          <td>英B</td>
+          <td>論表</td>
+          <td>LHR</td>
         </tr>
       </table>
       <h2>5D</h2>
