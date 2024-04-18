@@ -2,7 +2,7 @@
     <div class="header" v-if="dispsize()">
         <ul class="ma ul">
             <li class="title">
-                <h1>Daianger(β)</h1>
+                <h1>Daianger</h1>
             </li>
             <li> <router-link to="/">Home</router-link></li>
             <li> <router-link to="/homework">Homework</router-link></li>
@@ -14,7 +14,7 @@
         <!--モバイル-->
         <ul class="ma ul">
             <li class="title">
-                <h1>Daianger(β)</h1>
+                <h1>Daianger</h1>
             </li>
             <li @click="header()">Menu</li>
         </ul>
