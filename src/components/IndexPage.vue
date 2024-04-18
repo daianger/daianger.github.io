@@ -2,7 +2,7 @@
   <div class="hello">
     
    <HomeWork subject="Daiangerリニューアルについて" content="この度、Daianger Webページをリニューアルしました。主な変更点は以下のとおりです。" />
-   <HomeWork subject="1.課題管理をNotionで" content="管理者が理系のため、文系の方の課題の管理の方法について考えた結果、管理したい人が誰でも管理できるNotionを用いることにしました。" />
+   <HomeWork subject="1.課題管理をNotionで" content="'Homework'のページを管理したい人が誰でも管理できるNotionに変更することにしました。" />
    <HomeWork subject="2.URLの変更" content="(旧) ichl01.github.io/daianger (新) daianger.github.io" />
   </div>
 </template>
