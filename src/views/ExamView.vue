@@ -3,6 +3,7 @@
 <template>
     <div class="home">
         <PageTemp title="テスト範囲" />
+        <a href="https://pollen-halibut-2e3.notion.site/1-76ab3a4069354291a49e5304a3926d6e?pvs=4">一学期中間考査</a>
         <h2>学年末考査</h2>
         <div class="rect" style="padding-right: 10px;">
             <ul>
