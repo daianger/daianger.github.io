@@ -17,11 +17,17 @@ h1 {
         background-color: #F5F5F7;
         color: black;
     }
+    a{
+        color: black;
+    }
 }
 
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #000000;
+        color: white;
+    }
+    a{
         color: white;
     }
 }
